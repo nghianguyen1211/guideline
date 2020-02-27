@@ -11,7 +11,7 @@ With:
 - y: counter value
 ## REST API guideline
 ### Identify resources  
-1. Resource must be a noun   
+1. Resource must be a noun.  
 *Non-compliant*
 ```
 POST /phones/0901234567/signup
