@@ -5,7 +5,7 @@ We commumicate through Skype and email mostly. Please ask your mentor to add you
 #### Working process
 Jira is the popular tool for software development management. Ask the IT Helpdesk to send an invitation email for you if they forgot.
 #### SSH Key
-Here is the [guide line](https://docs.gitlab.com/ee/ssh/) to create ssh key.
+You need to provide your unique SSH key for our System Operators (SO) to allow you access the internal system through SSH channel. If you are not sure how to create please check the [guide line](https://docs.gitlab.com/ee/ssh/).
 
 *And the last one. If you're free and bored :D Ask your line manager for tasks...*
 ## README guideline
