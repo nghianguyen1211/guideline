@@ -1,5 +1,19 @@
 # Development guideline
 ## New member guildline
+#### Working softwares
+- Communication: (Microsoft) [Skype](https://www.skype.com/en/get-skype/) for chatting and Outlook for email
+- Office: Microsoft 360 Office
+- [Java JDK 8](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html)
+- GIT version control ([Sourcetree](https://www.sourcetreeapp.com/) or ...)
+- IDE ([IntelliJ](https://www.jetbrains.com/idea/download/), [Netbeans](https://netbeans.apache.org/download/index.html) or ...)
+- Databases clients:
+  - Mongodb [Compass Community Edition](https://www.mongodb.com/download-center/compass)
+  - MySQL [Workbench](https://dev.mysql.com/downloads/workbench/).
+- Service test client:
+  - [SoapUI Open Source](https://www.soapui.org/downloads/soapui.html)
+  - [Postman](https://www.postman.com/downloads/)
+- UML tool [Visual Paradigm Community Edition](https://www.visual-paradigm.com/download/community.jsp)
+- FTP client [FileZilla](https://filezilla-project.org/download.php)
 #### Team communication
 We commumicate through Skype and email mostly. Please ask your mentor to add you to your team group if he/she forgot.
 #### Working process
