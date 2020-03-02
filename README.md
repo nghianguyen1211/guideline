@@ -1,4 +1,13 @@
 # Development guideline
+## New member guildline
+#### Team communication
+We commumicate through Skype and email mostly. Please ask your mentor to add you to your team group if he/she forgot.
+#### Working process
+Jira is the popular tool for software development management. Ask the IT Helpdesk to send an invitation email for you if they forgot.
+#### SSH Key
+Here is the [guide line](https://docs.gitlab.com/ee/ssh/) to create ssh key.
+
+*And the last one. If you're free and bored :D Ask your line manager for tasks...*
 ## README guideline
 ```
 # *Version v2.x.y*
