@@ -52,6 +52,15 @@ POST /oauth/access_token
 - Singleton `/%resource_name%s/%id%` for getting, updating or deleting a unique resource based on its id.
 - Property of a resource `/%resource_name%s/%id%/propertyName` for insertion, getting, updating or deleting a property of the unique resource based on its id.
 
+### Support methods
+Name | Operation
+---- | --------
+POST | Insert
+PUT | Replace (Update all)
+PATCH | Update partial
+GET | Select (list or exactly one)
+DELETE | Remove
+
 ### Versioning
 Use URI versioning.  
 *Non-compliant*
@@ -65,6 +74,6 @@ Use URI versioning.
 /v2/accounts
 ```
 
-*Reference*
+*References*
 - [Microsoft API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
 - [Google API Guidelines](https://cloud.google.com/apis/design/resources)
