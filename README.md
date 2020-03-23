@@ -77,3 +77,25 @@ Use URI versioning.
 *References*
 - [Microsoft API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
 - [Google API Guidelines](https://cloud.google.com/apis/design/resources)
+
+## IAC-Processor configuration
+### Add new caller&key in [service] section if not exist
+### Add new value in list value in [noti-types] section
+### Add new config section
+### Queue names
+- dev: IN_APP_NOTIFICATION_V2
+- test: IN_APP_NOTIFICATION_V2_TEST
+### Queue payload:
+```
+{
+	"reqId": "...",
+	"caller": "...",
+	"data": {
+		"type": "",
+		"walletId": "...",
+		"phone": "xxx",
+		"title": "...",
+		"body": "..."
+	}
+}
+```
