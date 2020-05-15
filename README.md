@@ -99,3 +99,6 @@ Use URI versioning.
 	}
 }
 ```
+## SSH
+### Save password
+`ssh-copy-id user@host`
