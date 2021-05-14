@@ -49,20 +49,20 @@ With:
 - y: counter value
 ## REST API guideline
 ### Identify resources  
-1. Resource must be a noun.  
-  *Non-compliant*
+Resource must be a noun.  
+*Non-compliant*
 ```
 POST /phones/0901234567/signup
 POST /accounts/1/signin
 ```
-  *Compliant*
+*Compliant*
 ```
 POST /accounts
 {"phone": "0901234567"}
 POST /oauth/access_token
 {"account": "1"}
 ```
-2. Resource patterns:
+Resource patterns:
 - Collection `/%resource_name%s` for search or insertion.
 - Singleton `/%resource_name%s/%id%` for getting, updating or deleting a unique resource based on its id.
 - Property of a resource `/%resource_name%s/%id%/propertyName` for insertion, getting, updating or deleting a property of the unique resource based on its id.
@@ -88,32 +88,10 @@ Use URI versioning.
 /v1/accounts
 /v2/accounts
 ```
-
+*To be continued...*
 *References*
 - [Microsoft API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
 - [Google API Guidelines](https://cloud.google.com/apis/design/resources)
-
-## IAC-Processor configuration
-### Add new caller&key in [service] section if not exist
-### Add new value in list value in [noti-types] section
-### Add new config section
-### Queue names
-- dev: IN_APP_NOTIFICATION_V2
-- test: IN_APP_NOTIFICATION_V2_TEST
-### Queue payload:
-```
-{
-	"reqId": "...",
-	"caller": "...",
-	"data": {
-		"type": "",
-		"walletId": "...",
-		"phone": "xxx",
-		"title": "...",
-		"body": "..."
-	}
-}
-```
 ## SSH
 ### Save password
 `ssh-copy-id user@host`
