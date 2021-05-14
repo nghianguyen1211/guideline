@@ -50,12 +50,12 @@ With:
 ## REST API guideline
 ### Identify resources  
 1. Resource must be a noun.  
-*Non-compliant*
+  *Non-compliant*
 ```
 POST /phones/0901234567/signup
 POST /accounts/1/signin
 ```
-*Compliant*
+  *Compliant*
 ```
 POST /accounts
 {"phone": "0901234567"}
