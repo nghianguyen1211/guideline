@@ -88,7 +88,8 @@ Use URI versioning.
 /v1/accounts
 /v2/accounts
 ```
-*To be continued...*
+*To be continued...*  
+  
 *References*
 - [Microsoft API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
 - [Google API Guidelines](https://cloud.google.com/apis/design/resources)
