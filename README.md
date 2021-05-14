@@ -1,14 +1,16 @@
 # Development guideline
-## New member guildline
+## New member guideline
 #### Working softwares
 - Communication: (Microsoft) [Skype](https://www.skype.com/en/get-skype/) for chatting and Outlook for email
 - Office: Microsoft 360 Office
-- [Java JDK 8](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html)
+- [Java Oracle JDK 8](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html)
+- [Java Oracle JDK 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 - GIT version control ([Sourcetree](https://www.sourcetreeapp.com/) or ...)
-- IDE ([IntelliJ](https://www.jetbrains.com/idea/download/), [Netbeans](https://netbeans.apache.org/download/index.html) or ...)
+- IDE ([Visual Studio Code](https://code.visualstudio.com/download), [Netbeans](https://netbeans.apache.org/download/index.html), [IntelliJ](https://www.jetbrains.com/idea/download/),  or ...)
 - Databases clients:
   - Mongodb [Compass Community Edition](https://www.mongodb.com/download-center/compass)
   - MySQL [Workbench](https://dev.mysql.com/downloads/workbench/).
+  - Postgresql [pgAdmin](https://www.pgadmin.org/download/).
 - Service test client:
   - [SoapUI Open Source](https://www.soapui.org/downloads/soapui.html)
   - [Postman](https://www.postman.com/downloads/)
