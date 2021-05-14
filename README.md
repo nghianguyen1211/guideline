@@ -3,19 +3,32 @@
 #### Working softwares
 - Communication: (Microsoft) [Skype](https://www.skype.com/en/get-skype/) for chatting and Outlook for email
 - Office: Microsoft 360 Office
-- [Java Oracle JDK 8](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html)
-- [Java Oracle JDK 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
-- GIT version control ([Sourcetree](https://www.sourcetreeapp.com/) or ...)
-- IDE ([Visual Studio Code](https://code.visualstudio.com/download), [Netbeans](https://netbeans.apache.org/download/index.html), [IntelliJ](https://www.jetbrains.com/idea/download/),  or ...)
+- FE:
+  - Web:
+    - IDE:
+      - [Visual Studio Code](https://code.visualstudio.com/download)
+- BE:
+  - Java:
+    - JDK:
+      - [Java Oracle JDK 8](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html)
+      - [Java Oracle JDK 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+    - IDE:
+      - [Netbeans](https://netbeans.apache.org/download/index.html)
+- GIT version control
+  - GUI Clients:
+    - [Sourcetree](https://www.sourcetreeapp.com/)
 - Databases clients:
   - Mongodb [Compass Community Edition](https://www.mongodb.com/download-center/compass)
   - MySQL [Workbench](https://dev.mysql.com/downloads/workbench/).
   - Postgresql [pgAdmin](https://www.pgadmin.org/download/).
-- Service test client:
-  - [SoapUI Open Source](https://www.soapui.org/downloads/soapui.html)
-  - [Postman](https://www.postman.com/downloads/)
-- UML tool [Visual Paradigm Community Edition](https://www.visual-paradigm.com/download/community.jsp)
-- FTP client [FileZilla](https://filezilla-project.org/download.php)
+- Test clients:
+  - HTTP:
+    - [SoapUI Open Source](https://www.soapui.org/downloads/soapui.html)
+    - [Postman](https://www.postman.com/downloads/)
+- UML tools:
+  - [Visual Paradigm Community Edition](https://www.visual-paradigm.com/download/community.jsp)
+- FTP clients:
+  - [FileZilla](https://filezilla-project.org/download.php)
 #### Team communication
 We commumicate through Skype and email mostly. Please ask your mentor to add you to your team group if he/she forgot.
 #### Working process
